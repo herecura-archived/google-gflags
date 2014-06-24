@@ -1,0 +1,16 @@
+pkgbase = google-gflags
+	pkgdesc = Commandline flags module for C++
+	pkgver = 2.0
+	pkgrel = 2
+	url = http://code.google.com/p/google-gflags/
+	arch = i686
+	arch = x86_64
+	license = BSD3
+	makedepends = make
+	makedepends = gcc
+	options = !libtool
+	source = http://gflags.googlecode.com/files/gflags-2.0.tar.gz
+	md5sums = e02268c1e90876c809ec0ffa095da864
+
+pkgname = google-gflags
+
