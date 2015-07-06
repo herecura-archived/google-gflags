@@ -2,7 +2,7 @@
 # Contributor: Jochen Schalanda <jochen+aur@schalanda.name>
 pkgname=google-gflags
 pkgver=2.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Commandline flags module for C++"
 arch=(i686 x86_64)
 license=('BSD3')
